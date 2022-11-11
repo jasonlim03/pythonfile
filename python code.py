@@ -2,7 +2,7 @@ def register():
     db = open("database.txt","r")
     Username = input("Create username: ")
     Password = input("Create password: ")
-    Password1 =      input("Comfirm password: ")
+    Password1 = input("Comfirm password: ")
   
     if Password != Password1:
         print("Password don't match, restart")
