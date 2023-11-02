@@ -1,0 +1,18 @@
+Item code    Item name              Type               Price(RM)
+  001.       Iphone 14         Electronic Gadget          5000
+  002.       Iphone 13         Electronic Gadget          4000
+  003.       Samsung Galaxy    Electronic Gadget          3400
+  004.       Huawei Nova       Electronic Gadget          2300
+  005.       Robot Vacuum      Home Appliance              700
+  006.       Air Purifier      Home Appliance              400
+  007.       Smart Fan         Home Appliance              200
+  008.       Smart Camera      Home Appliance              350
+  009.       Smart Door        Home Appliance              930
+  010.       Smart TV          Home Appliance             2600
+  011.       Ipad              Electronic Gadget          1500
+  012.       Stereo Speaker    Electronic Gadget           200
+  013.       Smart Watch       Electronic Gadget           150
+  014.       Monitor           Electronic Gadget           600
+  015.       Printer           Electronic Gadget           250
+  016.       Headphone         Electronic Gadget            50
+  017.       Airpod            Electronic Gadget           750

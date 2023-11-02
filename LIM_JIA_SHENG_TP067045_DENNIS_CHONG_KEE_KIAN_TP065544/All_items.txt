@@ -1,0 +1,18 @@
+
+001:Iphone14:Electronic Gadget:10:5000
+002:Iphone13:Electronic Gadget:10:4000
+003:Samsung:Electronic Gadget:5:3400
+004:Huawei:Electronic Gadget:5:2300
+005:Robot Vacuum:Home Appliance:5:700
+006:Air Purifier:Home Appliance:10:400
+007:Smart Fan:Home Appliance:5:200
+008:Smart Camera:Home Appliance:5:350
+009:Smart Door:Home Appliance:5:930
+010:Smart TV:Home Appliance:5:2200
+011:Ipad:Electronic Gadget:12:1500
+012:Stereo Speaker:Electronice Gadget:5:200
+013:Smart Watch:Electronic Gadget:5:150
+014:Monitor:Electronic Gadget:10:200
+015:Printer:Electronic Gadget:5:250
+016:Headphone:Electronic Gadget:10:50
+017:Airpod:Electronic Gadget:10:750

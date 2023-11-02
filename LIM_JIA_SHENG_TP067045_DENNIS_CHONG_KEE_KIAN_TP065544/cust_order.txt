@@ -1,0 +1,6 @@
+Order History:
+Email/ Phone Number/ Order/ Delivery Status
+
+jason@gmail.com/012-321-321/{'Item: 001': {'quantity': 1, 'subtotal(RM)': 5000.0}, 'Item: 017': {'quantity': 2, 'subtotal(RM)': 1500.0}}/Shipped
+karen@gmail.com/012-123-123/{'Item: 002': {'quantity': 2, 'subtotal(RM)': 8000.0}, 'Item: 006': {'quantity': 1, 'subtotal(RM)': 400.0}}/delivered
+sdahu/23178/{'Item: 012': {'quantity': 2, 'subtotal(RM)': 400.0}}/

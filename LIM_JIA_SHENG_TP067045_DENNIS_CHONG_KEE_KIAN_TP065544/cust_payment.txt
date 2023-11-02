@@ -1,0 +1,4 @@
+Email, Phone No, Total Amount(RM), Payment Method, Card No, Payment Status, Date and Time
+
+jason@gmail.com, 012-321-321, 1500.0, Debit, 23910, paid, 2022-11-29 17:27:29.974520
+idk@gmail.com, 013-321-432, 5400.0, Credit, 9031, paid, 2022-11-29 17:28:12.208111
